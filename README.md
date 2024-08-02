@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+<a href="https://wakatime.com/@dd66bf6d-b6db-4dcf-9d6a-9df2063b530a"><img src="https://wakatime.com/badge/user/dd66bf6d-b6db-4dcf-9d6a-9df2063b530a.svg" alt="Total time coded since May 12 2024" /></a>
+
 <!--
 **DreWeRs/DreWeRs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
